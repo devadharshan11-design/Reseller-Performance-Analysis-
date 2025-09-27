@@ -41,7 +41,7 @@ The project was executed in three main phases:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone https://github.com/devadharshan11-design/Reseller-Performance-Analysis-/tree/main
     ```
 2.  **Download the Dataset:**
     * The raw data is not included in this repository due to its size.
