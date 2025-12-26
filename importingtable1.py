@@ -6,7 +6,7 @@ import os
 PROJECT_PATH = r'D:\SQL PROJECT'
 CSV_DIRECTORY = os.path.join(PROJECT_PATH, 'olist_data')
 DB_USER = 'root'
-DB_PASSWORD = 'Dev_10032005' # <-- Make sure this is your correct password
+DB_PASSWORD = 'xxxxxxxxxxxx' # <-- Make sure this is your correct password
 DB_HOST = 'localhost'
 DB_PORT = '3306'
 DB_NAME = 'projectmain'
